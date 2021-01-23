@@ -1,1 +1,1 @@
-# Continents and Cities
+# Codecademy Continents_and_Cities project
